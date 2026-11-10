@@ -19,11 +19,7 @@ Looker Studio dashboard analysing 500 Paris listings (Sept 2022 – Jan 2023) to
 
 ## Dashboard
 
-| Timing | Price |
-|---|---|
-| ![](images/02_timing.png) | ![](images/03_price.png) |
-| **Ratings & responsiveness** | |
-| ![](images/04_ratings.png) | |
+See pdf dashboard 
 
 ## Data & method
 
@@ -34,4 +30,4 @@ Looker Studio dashboard analysing 500 Paris listings (Sept 2022 – Jan 2023) to
 **Limitations:** unavailable nights include host-blocked nights; small sample (49 private rooms); correlation, not causation.
 
 ---
-**YOUR NAME**, MSc Data Management for Business × Le Wagon · [LinkedIn](LINK)
+**YOUR NAME**, MSc Data Management for Business × Le Wagon · [LinkedIn](https://www.linkedin.com/in/pierre-lou-roussel/)
