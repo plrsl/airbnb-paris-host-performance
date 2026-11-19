@@ -25,7 +25,7 @@ See pdf dashboard
 
 - **Source:** Inside Airbnb, Paris. 500 listings, 90% entire homes
 - **Occupancy** = share of nights unavailable in the calendar
-- **Tools:** Looker Studio *(⚠️ + Sheets / SQL / Python if used)*
+- **Tools:** Looker Studio, Excel, Bigquery, SQL, VS code
 
 **Limitations:** unavailable nights include host-blocked nights; small sample (49 private rooms); correlation, not causation.
 
