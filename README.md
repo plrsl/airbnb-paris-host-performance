@@ -23,8 +23,8 @@ See pdf dashboard
 
 ## Data & method
 
-- **Source:** Inside Airbnb, Paris *(⚠️ to confirm)*. 500 listings, 90% entire homes
-- **Occupancy** = share of nights unavailable in the calendar *(⚠️ adapt to your method)*
+- **Source:** Inside Airbnb, Paris. 500 listings, 90% entire homes
+- **Occupancy** = share of nights unavailable in the calendar
 - **Tools:** Looker Studio *(⚠️ + Sheets / SQL / Python if used)*
 
 **Limitations:** unavailable nights include host-blocked nights; small sample (49 private rooms); correlation, not causation.
